@@ -9,6 +9,8 @@ Também numa mistura entre pratico e teorico as fontes de material, era bom se d
 É suposto fazerem clone do projeto do KiCAD e façam as partes referentes ao vosso modulo.
 A esquematica podia ser separada em varias, mas não o iremos fazer.
 
+Cada Objetivo deve ter ou um PDF, podem usar LaTeX, ou um word/Excel com a vossa pesquisa e concluções, já devem estar inicializadas pastas e docs com o que eu faria/escolheria.
+
 Objetivos
 
 - [ ] Fazer pesquisa de tudo...
@@ -27,3 +29,4 @@ Objetivos
     - [ ] Como vamos medir, ou seja os ICs ou componentes necessarios
     - [ ] Se precissamos de montagens de suporte pre-MCU
     - [ ] Consumo de cada um e os seus polling times
+  - [ ] Modelo 3D e Design
