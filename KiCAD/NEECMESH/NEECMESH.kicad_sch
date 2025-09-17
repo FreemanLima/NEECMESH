@@ -1,0 +1,148 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c26317f0-1deb-4048-861b-c806130be224")
+	(paper "A3")
+	(title_block
+		(title "NEECMESH")
+		(company "NEEC")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 22.86 20.32)
+		(end 120.65 100.33)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 29141030-7bd0-44b9-b81b-03f008ba0679)
+	)
+	(rectangle
+		(start 22.86 203.2)
+		(end 120.65 283.21)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3fb0794b-884e-4600-9221-844328edd139)
+	)
+	(rectangle
+		(start 133.35 111.76)
+		(end 231.14 191.77)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5728617d-f80d-4bc0-aa60-fd1a8d1161c0)
+	)
+	(rectangle
+		(start 22.86 111.76)
+		(end 120.65 191.77)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cdafa9dc-ec24-4dd3-8f5b-3941da1a1c67)
+	)
+	(rectangle
+		(start 133.35 20.32)
+		(end 231.14 100.33)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f89f980e-16ce-47d1-803c-395c9fdcf377)
+	)
+	(text "BMU"
+		(exclude_from_sim no)
+		(at 136.906 24.13 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "3fddbcfe-8005-4c97-8dd3-c9ac9b60e2e6")
+	)
+	(text "Radio"
+		(exclude_from_sim no)
+		(at 25.654 115.824 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4fcbf210-4a03-4c87-a525-69f7cc4b34a8")
+	)
+	(text "Sensores"
+		(exclude_from_sim no)
+		(at 136.144 115.824 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "71412a27-a98b-4271-aa8d-4b76b37900ff")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 25.654 23.876 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "95f17bf3-0200-4c3f-a146-ac8ea0877939")
+	)
+	(text "PLACEHOLDER"
+		(exclude_from_sim no)
+		(at 25.654 207.264 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3 3)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ea448277-27da-463c-aa06-ea99a1c1a191")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
