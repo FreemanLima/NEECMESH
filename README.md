@@ -16,7 +16,7 @@ Objetivos
 - [ ] Fazer pesquisa de tudo...
   - [ ] MCU (seleção inicial com vantagens/desvantagens
     - [ ] Escolha final e porque
-  - [ ] BMU
+  - [ ] BMU (Energia)
     - [ ] Escolha do IC de carregamento com o circuito de proteção
     - [ ] Escolha da "Bateria" Lipo OU LiOn (Ou seja cilindrica ou retangular lisa)
     - [ ] Carregamento sem fios?
